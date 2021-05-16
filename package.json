@@ -1,5 +1,5 @@
 {
-  "name": "nextjs",
+  "name": "blog-post-mockup",
   "version": "1.0.0",
   "scripts": {
     "dev": "next",
@@ -8,11 +8,12 @@
     "post-update": "yarn upgrade --latest"
   },
   "dependencies": {
-    "next": "latest",
+    "@zeit/next-css": "1.0.1",
+    "next": "10.2.1-canary.8",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
   },
   "license": "MIT",
-  "keywords": ["next"],
-  "description": "A \"Hello World\" application with multiple pages that shows how Next.js routing works."
+  "keywords": [],
+  "description": ""
 }

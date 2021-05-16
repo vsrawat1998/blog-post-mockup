@@ -1,12 +1,10 @@
-import Link from 'next/link'
+// import Link from "next/link";
+import Header from "./header";
 
 export default function IndexPage() {
   return (
     <div>
-      Hello World.{' '}
-      <Link href="/about">
-        <a>About</a>
-      </Link>
+      <Header />
     </div>
-  )
+  );
 }

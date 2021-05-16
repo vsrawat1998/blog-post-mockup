@@ -1,0 +1,12 @@
+.header_main {
+  /* background-color: paleturquoise; */
+  /* padding: 0 100px; */
+}
+
+.header_link {
+  color: red;
+  cursor: pointer;
+  font-weight: bold;
+  padding: 0 20px;
+  display: inline-block;
+}
